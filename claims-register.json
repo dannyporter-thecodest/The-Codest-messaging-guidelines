@@ -1,0 +1,293 @@
+{
+  "version": "1.0.0",
+  "source": "Strategia Marki i Komunikacji 2026 (Dowody, claimy i gotowosc publikacyjna, v1 2026-08-26)",
+  "owner": "Marketing Specialist",
+  "rule": "No entry means do not use. Only PUBLIC claims may appear in public content without a cleared condition.",
+  "visibility_levels": [
+    "PUBLIC",
+    "PUBLIC-CONDITIONAL",
+    "1TO1-CONDITIONAL",
+    "INTERNAL",
+    "BLOCKED"
+  ],
+  "claims": [
+    {
+      "id": "CLM-001",
+      "claim": "We take responsibility for the systems your business makes money on, as if they were our own.",
+      "type": "strategic decision",
+      "visibility": "PUBLIC",
+      "condition": "The only brand promise. English wording is a working translation; confirm before website use.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-002",
+      "claim": "The Codest has product-builder DNA from AdTaily and Yieldbird",
+      "type": "fact, needs editing",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Verify each number and award separately.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-003",
+      "claim": "We offer Product Development, Staff Augmentation and AI",
+      "type": "fact",
+      "visibility": "PUBLIC",
+      "condition": "The client's problem leads the story.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-004",
+      "claim": "AI is used in engineering and prototyping",
+      "type": "fact",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "No guaranteed results; process description must be approved.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-005",
+      "claim": "A prototype can be ready in as little as 24 hours",
+      "type": "statement",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Define scope and show an example before publishing.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-006",
+      "claim": "We can grow a team by 10 people in a month",
+      "type": "planning assumption",
+      "visibility": "INTERNAL",
+      "condition": "Not an SLA, not a website claim.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-007",
+      "claim": "Senior-only",
+      "type": "website claim",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Needs a definition of seniority and process confirmation.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-008",
+      "claim": "A team can start in under 30 days",
+      "type": "website claim",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Needs a counting method and case history.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-009",
+      "claim": "MUFG: scale and ratings",
+      "type": "fact",
+      "visibility": "1TO1-CONDITIONAL",
+      "condition": "1:1 only after contract check and approval; publicly blocked.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-010",
+      "claim": "Allegro: Team Extension with Delivery Responsibility",
+      "type": "fact",
+      "visibility": "1TO1-CONDITIONAL",
+      "condition": "1:1 only after contract check and approval; never add business KPIs.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-011",
+      "claim": "\"They treat the project like their own\" (public review)",
+      "type": "public review",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Check reuse rules and attribution.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-012",
+      "claim": "Revenue plan 2026-2029",
+      "type": "financial decision",
+      "visibility": "INTERNAL",
+      "condition": "Never in marketing.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-013",
+      "claim": "Number of clients is not a KPI",
+      "type": "strategic decision",
+      "visibility": "INTERNAL",
+      "condition": "Block any client-count targets.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-014",
+      "claim": "AI is the brand's main differentiator",
+      "type": "hypothesis",
+      "visibility": "BLOCKED",
+      "condition": "Decision only after two full quarters of testing.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-015",
+      "claim": "The US is a target market",
+      "type": "old record",
+      "visibility": "BLOCKED",
+      "condition": "Market withdrawn.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-016",
+      "claim": "GFT is a Codest client",
+      "type": "false",
+      "visibility": "BLOCKED",
+      "condition": "GFT is an intermediary, not a client.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-017",
+      "claim": "Teams can stay with a client for years",
+      "type": "website claim",
+      "visibility": "PUBLIC-CONDITIONAL",
+      "condition": "Confirm distribution of relationship length and population.",
+      "condition_cleared": false,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-018",
+      "claim": "EUR 3-6.5m of new revenue a year is the target",
+      "type": "old record",
+      "visibility": "BLOCKED",
+      "condition": "Use the current financial plan internally only.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-019",
+      "claim": "The target is 4-6 or 10-13 new clients",
+      "type": "old record",
+      "visibility": "BLOCKED",
+      "condition": "Client count is not a KPI.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-020",
+      "claim": "The hiring limit is 12 people",
+      "type": "old record",
+      "visibility": "BLOCKED",
+      "condition": "Use role-specific planning assumptions.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-021",
+      "claim": "Poland applies only to Group 1",
+      "type": "old record",
+      "visibility": "BLOCKED",
+      "condition": "Poland applies to all three groups.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    },
+    {
+      "id": "CLM-022",
+      "claim": "MUFG or Allegro can be shown publicly if anonymised",
+      "type": "false",
+      "visibility": "BLOCKED",
+      "condition": "Formal consent is required even for anonymised use.",
+      "condition_cleared": null,
+      "source_date": "2026-08-26",
+      "review_date": null
+    }
+  ],
+  "client_denylist_public": [
+    "MUFG",
+    "Allegro"
+  ],
+  "blocked_phrases": [
+    "85% of sprints on time",
+    "99.9% uptime",
+    "exclusive technology partner",
+    "AI team",
+    "AWS Bedrock AI code review",
+    "Claude Code on the Allegro project",
+    "AI-native",
+    "AI-first",
+    "10x"
+  ],
+  "avoid_words": [
+    "top-notch",
+    "top-tier",
+    "world-class",
+    "unparalleled",
+    "best-in-class",
+    "cutting-edge",
+    "state-of-the-art",
+    "game-changing",
+    "revolutionary",
+    "boost",
+    "supercharge",
+    "seamless",
+    "effortless",
+    "frictionless",
+    "resources",
+    "the best developers",
+    "always",
+    "never",
+    "guaranteed",
+    "risk-free",
+    "premium",
+    "end-to-end digital product development"
+  ],
+  "target_markets": [
+    "Germany",
+    "Austria",
+    "Switzerland",
+    "Nordics",
+    "United Kingdom",
+    "Poland"
+  ],
+  "excluded_markets": [
+    "United States"
+  ],
+  "required_output_fields": [
+    "audience_group",
+    "buying_role",
+    "funnel_stage",
+    "cta",
+    "claims_used",
+    "open_questions"
+  ]
+}
