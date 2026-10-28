@@ -93,7 +93,7 @@ Sales and Procurement material   Case studies   Articles   Company LinkedIn   Fo
 | Paid ads | Shortest | One problem, one point, one small next step | Only claims cleared for public use (CLM-001, CLM-003, or others once their condition is cleared) |
 
 **Headings** depend on the channel. They always say something, never a bare label like "Our services". **[Added]**
-- Article titles are statements: the outcome the reader wants ("How to extend your engineering team without losing control") or a true insight. Never a one-sided claim the article does not prove.
+- Article titles are statements: the outcome the reader wants ("How to bring external engineers into your team without losing control") or a true insight. Never a one-sided claim the article does not prove.
 - Article section headings are the buyer's own questions, for search and AI answers.
 - Pages, posts and ads use claims about the buyer's situation.
 
