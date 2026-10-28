@@ -11,7 +11,7 @@ Source: "Strategia Marki i Komunikacji 2026" pack (15 documents, versions dated 
 | [01-positioning.md](01-positioning.md) | Brand promise, category, problem, story, how we differ | Any piece of content |
 | [02-icp.md](02-icp.md) | Three audience groups, buying committee, triggers, anti-ICP, markets | Choosing who a piece is for |
 | [03-messaging.md](03-messaging.md) | Messaging house, offer architecture, lines and CTAs by group and role, objections, page formulas | Writing copy, pages, sales material |
-| [04-voice.md](04-voice.md) | Personality, archetypes, writing rules, word lists, examples, languages | Writing or editing anything |
+| [04-voice.md](04-voice.md) | How The Codest sounds: personality, archetypes, tone by channel, writing rules, words to use and avoid, generated-copy patterns, style notes, examples, voice checklist | **Always, before writing anything public** |
 | [05-claims.md](05-claims.md) | Claims register, visibility levels, blocked claims, anonymised proof template | Before using any fact, number, client name or quote |
 | [06-publishing.md](06-publishing.md) | Publishing path, who approves what, AI Act rules, pre-publish checklist | Before anything leaves the building |
 | [claims-register.json](claims-register.json) | Machine-readable claims register | Automated checks |
@@ -27,7 +27,7 @@ These override everything else in the repo. If a request conflicts with one of t
 5. **AI is a way of working, not the headline.** No "AI-first", "AI-native", "10x", or "AI-powered" as decoration.
 6. **No invented numbers.** Do not combine two claims into a new number. Do not turn a planning assumption into a promise.
 7. **Markets are DACH, Nordics, UK and Poland.** Never target or mention the US as a market.
-8. **Plain, calm, specific English.** No hype words (see [04-voice.md](04-voice.md)). No em dashes.
+8. **One voice.** Plain, calm, specific British English, the same on every channel. Read [04-voice.md](04-voice.md) before writing, and run its checklist. No em dashes.
 9. **Missing proof means asking, not writing.** If a piece needs evidence that does not exist, return a question or a list of what to collect, not finished copy.
 10. **Cody drafts, humans publish.** Every piece goes through the publishing path in [06-publishing.md](06-publishing.md). Cody never publishes on its own.
 
