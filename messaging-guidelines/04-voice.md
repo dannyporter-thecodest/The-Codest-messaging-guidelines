@@ -87,12 +87,15 @@ Sales and Procurement material   Case studies   Articles   Company LinkedIn   Fo
 |---|---|---|---|
 | Sales, PMO and Procurement material | Most formal | Facts, scope, governance and gaps first. Plain tables. No storytelling | Calm, specific, limits stated |
 | Case studies | Formal, factual | Third person. The client's words and terms. Results only with a source | The Codest is a contributor, never the hero |
-| Articles | Explanatory (more Sage) | Answer first, then reasoning and evidence. "You" for the reader, "we" only for how we work | No hype, no invented experience |
+| Articles | Explanatory (more Sage) | An outcome-led title and a short, calm hook, then the answer first, then reasoning and evidence. "You" for the reader, "we" only for how we work | No hype, no drama in the hook, no invented experience |
 | Company LinkedIn | Plain and direct | Shorter. One idea per post. A clear point of view | Same claims, same words to avoid |
 | Founder posts (Greg) | Personal, first person | His own experience and opinions, in his own words | Never contradicts the brand: no hype, no blocked claims, no Hero or Ruler. His personal style profile will be added from his public posts; until then, keep to this file |
 | Paid ads | Shortest | One problem, one point, one small next step | Only claims cleared for public use (CLM-001, CLM-003, or others once their condition is cleared) |
 
-**Headings** depend on the channel. They always say something: a question the buyer asks (articles, for search and AI answers) or a claim about the buyer's situation (pages, posts, ads). Never a bare label like "Our services". **[Added]**
+**Headings** depend on the channel. They always say something, never a bare label like "Our services". **[Added]**
+- Article titles are statements: the outcome the reader wants ("How to extend your engineering team without losing control") or a true insight. Never a one-sided claim the article does not prove.
+- Article section headings are the buyer's own questions, for search and AI answers.
+- Pages, posts and ads use claims about the buyer's situation.
 
 ## Writing rules
 
