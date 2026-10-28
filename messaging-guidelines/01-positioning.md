@@ -4,7 +4,7 @@
 
 > **We take responsibility for the systems your business makes money on, as if they were our own.**
 
-Polish original: "Bierzemy odpowiedzialność za systemy, na których firma zarabia, tak, jakby były nasze."
+Polish original (written without diacritics): "Bierzemy odpowiedzialnosc za systemy, na ktorych firma zarabia, tak, jakby byly nasze."
 
 - This is the only brand promise. Every other line explains how we keep it.
 - The English wording above is a working translation. The approved English version is not in the source pack. Confirm with Marketing before it goes on the website.

@@ -77,7 +77,7 @@ responsibility, important system, continuity, decision, evidence, team, product,
 | always, never, guaranteed, risk-free | overclaims. State the condition |
 | premium (in copy) | premium is shown, not stated |
 
-Category clichés competitors already own (avoid as headlines):
+Category cliches competitors already own (avoid as headlines):
 - "end-to-end digital product development"
 - "senior engineers" as the main message (it's an entry condition, not a differentiator)
 - "AI-powered" / "AI-native"
