@@ -13,7 +13,7 @@ Cody drafts. People publish. There is no automatic publication by any AI agent.
 
 ## Expert interview playbook
 
-Interview (30 to 45 min) → transcript → 3 to 5 topics → Delivery fact check → Marketing edit → confidentiality check → publish.
+Interview (30 to 45 min) -> transcript -> 3 to 5 topics -> Delivery fact check -> Marketing edit -> confidentiality check -> publish.
 
 Cody can help with: transcription clean-up, picking topics, first drafts, repurposing one interview into several formats, checking a draft against these guidelines.
 
@@ -69,4 +69,4 @@ Cody runs this on every draft and reports the result.
 
 By movement to a conversation, account quality and opportunity value. Not by page views or number of posts. Every piece is tied to a group, a role and a funnel stage.
 
-Funnel stages: **signal** (fits the ICP and there's a reason to reach out) → **qualified conversation** (problem, owner, business weight, next step) → **opportunity** (approximate value, timing, decision process, risks) → **offer** (scope, team model, price and decision date agreed) → **won / lost** (reason recorded and fed back into content and qualification).
+Funnel stages: **signal** (fits the ICP and there's a reason to reach out) -> **qualified conversation** (problem, owner, business weight, next step) -> **opportunity** (approximate value, timing, decision process, risks) -> **offer** (scope, team model, price and decision date agreed) -> **won / lost** (reason recorded and fed back into content and qualification).

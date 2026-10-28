@@ -46,9 +46,11 @@ open_questions: <facts that still need checking, or "none">
 
 ## Order of authority
 
-1. These files (based on the approved 2026 strategy).
-2. The 2027-2029 strategy and its appendix (internal, confidential).
+1. These files (based on the approved 2026 strategy). **These are the rulebook: follow them when writing.**
+2. The 2027-2029 strategy and its appendix (internal, confidential), now translated into English in the private repository `Marketing-communication-strategy-2026` (`the-codest-direction-2027-2029-and-90-day-plan.md`, `appendix-to-the-final-strategy.md` and 13 supporting files). **That is the source and reference: use it to check facts, decisions, reasoning and confidence, not as a writing guide.**
 3. Anything older: the 2026 company deck, portfolio PDF, current website, 2021-2023 materials. These break several rules (unsourced stats, avoid-list words, a public MUFG mention). Reuse ideas from them, never claims, until a claim is in the register.
+
+If these files and the strategy seem to disagree, follow these files for what you write, and flag the difference to the Marketing Specialist so one of them can be updated. For facts (numbers, decisions, dates, claim IDs), the strategy is the source: if a fact here differs from it, flag it and do not guess.
 
 If `fred/fred-context.json` exists in the company GitHub, it is the earlier machine source for claims. Its claim IDs must match [claims-register.json](claims-register.json). If they disagree, flag it and do not guess.
 

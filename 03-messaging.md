@@ -4,7 +4,7 @@ Status: approved direction. These are messages, not final website copy. Final co
 
 The client's problem leads. Product Development, Staff Augmentation and AI are three ways of taking responsibility, not three separate identities.
 
-Narrative order for any piece: **problem → responsibility → model.**
+Narrative order for any piece: **problem -> responsibility -> model.**
 
 ## Messaging house
 
@@ -85,12 +85,12 @@ AI isn't our main claim. We show the actual process, the go/no-go criteria and w
 
 Use these structures for web pages and long-form sales material.
 
-- **Group page:** trigger → risk → expected result → buying committee → way in → proof → CTA
-- **Problem page:** situation → cost of doing nothing → options → when The Codest fits → small first step
-- **Service page:** when to choose it → what we're responsible for → how we work → what we don't promise → proof → CTA
-- **Case study / proof page:** scope → The Codest's role → how we worked → result confirmed by a source → consent level. No consent blocks publication and anonymisation.
+- **Group page:** trigger -> risk -> expected result -> buying committee -> way in -> proof -> CTA
+- **Problem page:** situation -> cost of doing nothing -> options -> when The Codest fits -> small first step
+- **Service page:** when to choose it -> what we're responsible for -> how we work -> what we don't promise -> proof -> CTA
+- **Case study / proof page:** scope -> The Codest's role -> how we worked -> result confirmed by a source -> consent level. No consent blocks publication and anonymisation.
 
-**Homepage order:** problem, audience and responsibility → three situations where we help → choose your path by group → how the first step works → approved proof → three ways of working together → expert content → one main CTA.
+**Homepage order:** problem, audience and responsibility -> three situations where we help -> choose your path by group -> how the first step works -> approved proof -> three ways of working together -> expert content -> one main CTA.
 
 **Planned site structure:** Home; Problems / When to work with us; For Scale-ups; For Enterprise; For Banks; Ways we help; Proof & insights; About; Contact. Problem pages lead. Service pages support SEO.
 
