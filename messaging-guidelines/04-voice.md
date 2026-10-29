@@ -8,7 +8,7 @@ Status: the personality, archetypes, values and tone come from the brand platfor
 
 The Codest has one voice. Articles, posts, ads and sales documents change register, never character. If a reader saw a case study, an ad and one of Greg's posts on the same day, they should recognise one company.
 
-**Order of authority:** the brand platform in the strategy, then this file, then channel rules (for example `content-creation/articles/rules/`). Channel rules can add detail. They never loosen this file. If this file and the brand platform disagree, the brand platform wins and this file gets fixed.
+**Order of authority:** the brand platform in the strategy, then this file, then channel rules (for example `content/articles/rules/`). Channel rules can add detail. They never loosen this file. If this file and the brand platform disagree, the brand platform wins and this file gets fixed.
 
 **Where each rule comes from.** Rules marked **[Strategy]** come from the brand platform, messaging or claims files and cannot be changed without the board. Rules marked **[Added]** are writing hygiene added by Marketing to keep the strategy's voice consistent. They only make the strategy's rules concrete. Marketing can change them.
 
